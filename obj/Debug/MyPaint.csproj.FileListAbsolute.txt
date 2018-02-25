@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Uchioba\ООП\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\user\Desktop\Uchioba\ООП\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\user\Desktop\Uchioba\ООП\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\user\Desktop\Uchioba\ООП\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Uchioba\ООП\MyPaint\MyPaint\obj\Debug\MyPaint.MainWindow.resources
+C:\Users\user\Desktop\Uchioba\ООП\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\user\Desktop\Uchioba\ООП\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Uchioba\ООП\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\user\Desktop\Uchioba\ООП\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
